@@ -1,0 +1,15 @@
+const { getDefaultConfig } = require("expo/metro-config");
+const { withNativeWind } = require("nativewind/metro-config");
+
+/** @type {import('expo/metro-config').MetroConfig} */
+const config = getDefaultConfig(__dirname);
+
+// 1. Remove "md" from sourceExts if it exists
+config.resolver.sourceExts = config.resolver.sourceExts.filter(ext => ext !== 'md');
+
+// 2. Add "md" to assetExts so require() works for markdown files
+if (!config.resolver.assetExts.includes('md')) {
+  config.resolver.assetExts.push('md');
+}
+
+module.exports = withNativeWind(config, { input: "./src/styles/global.css" });

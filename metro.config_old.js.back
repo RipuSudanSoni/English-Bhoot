@@ -1,0 +1,8 @@
+const { getDefaultConfig } = require("expo/metro-config");
+const { withNativeWind } = require("nativewind/metro-config");
+
+/** @type {import('expo/metro-config').MetroConfig} */
+// __dirname को हटाने की कोशिश
+const config = getDefaultConfig(process.cwd());
+
+module.exports = withNativeWind(config, { input: "./src/styles/global.css" });
