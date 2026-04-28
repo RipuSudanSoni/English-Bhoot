@@ -26,7 +26,7 @@ A noun is one of the most important parts of English grammar. It helps us name p
 
 ---
 
-## What is a Noun? {#what-is-noun}
+## What is a Noun? {#what-is-noun} [nav]
 
 A noun is a word that names a **person, place, thing, animal, or idea**.
 
@@ -47,7 +47,7 @@ A noun is a word that names a **person, place, thing, animal, or idea**.
 
 ---
 
-## Types of Noun {#types-of-noun}
+## Types of Noun {#types-of-noun} [nav]
 
 There are mainly 8 types of nouns in English grammar.
 
@@ -165,7 +165,7 @@ Examples:
 
 ---
 
-## Rules of Using Noun {#rules-of-noun}
+## Rules of Using Noun {#rules-of-noun} [nav: Grammar Rules]
 
 1. Proper nouns always start with capital letters.
 2. Singular noun → use **a/an**  
@@ -175,7 +175,7 @@ Examples:
 
 ---
 
-## Common Mistakes {#common-mistakes}
+## Common Mistakes {#common-mistakes} [nav: Mistakes]
 
 ❌ She have informations  
 ✅ She has information  

@@ -1,4 +1,4 @@
-# Grammar
+# Grammar [nav]
 
 
 Grammar is the structure of a language.
