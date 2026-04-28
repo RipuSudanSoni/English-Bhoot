@@ -1,4 +1,4 @@
-# Verb
+# Verb [nav]
 
 
 Verb is a Important part of grammar.  is the structure of a language.

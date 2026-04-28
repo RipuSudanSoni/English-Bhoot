@@ -199,7 +199,7 @@ Learning **tenses** is very important for speaking correct English.
 
 ---
 
-## What is Tense? {#what-is-tense}
+## What is Tense? {#what-is-tense} [nav]
 
 **Tense tells us the time of an action.**  
 Tense हमें बताता है कि काम:
@@ -216,12 +216,12 @@ Example:
 
 ---
 
-## Present Tense {#present-tense}
+## Present Tense {#present-tense} [nav]
 <!-- ## Present Tense -->
 
 <!-- ### ✅ A. Use of Present Simple Tense in spoken English. -->
 <!-- ### Use of Present Simple Tense {#present-simple-use} -->
-### ✅ A. Use of Present Simple Tense in spoken English {#present-simple-use}
+### ✅ A. Use of Present Simple Tense in spoken English {#present-simple-use} [nav: Present Simple]
 
 **Use:**  
 - Daily habits  
@@ -248,7 +248,7 @@ Correct: **I go** ✅
 
 ---
 
-### ✅ B. Present Continuous Tense
+### ✅ B. Present Continuous Tense [nav: Present Continuous]
 
 **Use:**  
 - Action happening now  
@@ -298,7 +298,7 @@ Subject + has/have + Verb (V3)
 
 ---
 
-## 3️⃣ Past Tense
+## 3️⃣ Past Tense [nav: Past Tense]
 
 ### ✅ A. Past Simple Tense
 
@@ -359,7 +359,7 @@ had + Verb (V3)
 
 ---
 
-## 4️⃣ Future Tense
+## 4️⃣ Future Tense [nav]
 
 ### ✅ A. Future Simple Tense
 
@@ -415,7 +415,7 @@ am/is/are + going to + Verb
 
 ---
 
-## 6️⃣ Daily Spoken English Tips
+## 6️⃣ Daily Spoken English Tips [nav: Speaking Tips]
 
 ✔️ Think in English  
 ✔️ Speak simple sentences  
